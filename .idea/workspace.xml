@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="120c8234-35bb-4f10-9dc4-e75fd66af52c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Wallet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Wallet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/balance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/balance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/balance.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/balance.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/constants.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/balance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/balance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/balance.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/balance.test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +138,7 @@
       <workItem from="1564500746575" duration="4077000" />
       <workItem from="1564573003451" duration="16000" />
       <workItem from="1564746726020" duration="2622000" />
-      <workItem from="1564764964613" duration="318000" />
+      <workItem from="1564764964613" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1564483818010</created>
@@ -174,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564748740615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="28. Render the Wallet">
+      <created>1564765344606</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564765344606</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +209,7 @@
     <MESSAGE value="25. Set a Balance with a Redux Action" />
     <MESSAGE value="26. Create the Balance Redux Reducer" />
     <MESSAGE value="27. Test and Build a Wallet Component" />
-    <option name="LAST_COMMIT_MESSAGE" value="27. Test and Build a Wallet Component" />
+    <MESSAGE value="28. Render the Wallet" />
+    <option name="LAST_COMMIT_MESSAGE" value="28. Render the Wallet" />
   </component>
 </project>
