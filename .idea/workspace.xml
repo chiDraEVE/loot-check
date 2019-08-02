@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120c8234-35bb-4f10-9dc4-e75fd66af52c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reducers/balance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/balance.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Wallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Wallet.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/__snapshots__/Wallet.test.js.snap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +45,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
@@ -133,7 +136,7 @@
       <workItem from="1564483652375" duration="1174000" />
       <workItem from="1564500746575" duration="4077000" />
       <workItem from="1564573003451" duration="16000" />
-      <workItem from="1564746726020" duration="613000" />
+      <workItem from="1564746726020" duration="1896000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1564483818010</created>
@@ -156,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564505546503</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="26. Create the Balance Redux Reducer">
+      <created>1564747387898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564747387898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,9 +186,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="21. Start Up LootCheck with an App Component" />
     <MESSAGE value="25. Set a Balance with a Redux Action" />
-    <option name="LAST_COMMIT_MESSAGE" value="25. Set a Balance with a Redux Action" />
+    <MESSAGE value="26. Create the Balance Redux Reducer" />
+    <option name="LAST_COMMIT_MESSAGE" value="26. Create the Balance Redux Reducer" />
   </component>
 </project>
