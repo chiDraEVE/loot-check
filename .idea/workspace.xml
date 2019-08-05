@@ -137,7 +137,7 @@
       <workItem from="1564746726020" duration="2622000" />
       <workItem from="1564764964613" duration="1676000" />
       <workItem from="1564996118227" duration="39000" />
-      <workItem from="1564996173694" duration="862000" />
+      <workItem from="1564996173694" duration="2204000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1564483818010</created>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564766621413</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="30. Local Wallet Balance with State">
+      <created>1564997068305</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564997068305</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +224,7 @@
     <MESSAGE value="27. Test and Build a Wallet Component" />
     <MESSAGE value="28. Render the Wallet" />
     <MESSAGE value="29. Support Redux Deposit and Withdraw Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="29. Support Redux Deposit and Withdraw Methods" />
+    <MESSAGE value="30. Local Wallet Balance with State" />
+    <option name="LAST_COMMIT_MESSAGE" value="30. Local Wallet Balance with State" />
   </component>
 </project>
