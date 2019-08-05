@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1017a05-4476-45cf-910f-d0f9798fb401" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loot.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/__snapshots__/Loot.test.js.snap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Wallet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Wallet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565004833760</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="39. Combine Reducers">
+      <created>1565005636552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1565005636552</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +264,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="37. Fetch the Bitcoin Value through Redux" />
     <MESSAGE value="38. Bitcoin Redux Reducer" />
-    <option name="LAST_COMMIT_MESSAGE" value="38. Bitcoin Redux Reducer" />
+    <MESSAGE value="39. Combine Reducers" />
+    <option name="LAST_COMMIT_MESSAGE" value="39. Combine Reducers" />
   </component>
 </project>
