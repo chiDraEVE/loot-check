@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1017a05-4476-45cf-910f-d0f9798fb401" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/balance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/balance.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/balance.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/balance.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/bitcoin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/bitcoin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/bitcoin.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/bitcoin.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Loot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Loot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Loot.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Loot.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Wallet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Wallet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Wallet.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Wallet.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/balance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/balance.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/balance.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/balance.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/bitcoin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/bitcoin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/bitcoin.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/bitcoin.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.npm test">
+  <component name="RunManager" selected="npm.npm coverage">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -103,7 +86,7 @@
       <scripts>
         <script value="test" />
       </scripts>
-      <arguments value="--coverage -a" />
+      <arguments value="--coverage --watchAll" />
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
